@@ -1,6 +1,6 @@
 Name:		texlive-ekdosis
-Version:	61113
-Release:	2
+Version:	69568
+Release:	1
 Summary:	Typesetting TEI-xml compliant Critical Editions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ekdosis
