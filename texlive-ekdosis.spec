@@ -3,7 +3,7 @@ Version:	69568
 Release:	1
 Summary:	Typesetting TEI-xml compliant Critical Editions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ekdosis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ekdosis
 License:	gpl3+ fdl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ekdosis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ekdosis.doc.r%{version}.tar.xz
